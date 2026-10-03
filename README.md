@@ -1,27 +1,58 @@
-# Manuales de capacidades de IA
+# Alfonso De la Rosa P.
 
-Colección de manuales paso a paso pensados para aprovechar las capacidades que los modelos de IA actuales (como la familia Claude 5) pueden ejecutar hoy: analizar código y documentos, planificar trabajo, dar retroalimentación estructurada y diagnosticar/corregir problemas de punta a punta.
+**Desarrollador full stack · Técnico de audio · Productor de eventos musicales**
+📍 Ciudad de México · Músico que experimenta con sus composiciones y las nuevas tecnologías
 
-Cada manual sigue la misma estructura: **qué es**, **cuándo usarlo**, **requisitos**, **procedimiento paso a paso**, **ejemplos de instrucciones (prompts)**, **lista de verificación** y **límites conocidos**.
+---
 
-## Índice
+## Sobre mí
 
-| # | Manual | Descripción |
-|---|--------|-------------|
-| 1 | [Chequeo de seguridad](manuales/01-chequeo-de-seguridad.md) | Cómo pedirle a un modelo de IA que revise código, configuraciones y dependencias en busca de vulnerabilidades, y cómo validar sus hallazgos. |
-| 2 | [Fable Plan](manuales/02-fable-plan.md) | Cómo usar el modo de planificación de un modelo avanzado para diseñar el trabajo antes de ejecutarlo: explorar, proponer, aprobar y ejecutar. |
-| 3 | [La opinión con crítica constructiva](manuales/03-opinion-con-critica-constructiva.md) | Cómo obtener del modelo una opinión honesta y útil sobre un trabajo (código, texto, diseño o decisión), con crítica que se pueda accionar. |
-| 4 | [Fixer](manuales/04-fixer.md) | Cómo usar el modelo como "reparador": reproducir un problema, diagnosticar la causa raíz, aplicar la corrección mínima y verificarla. |
+Combino dos mundos: la **ingeniería de audio** (Ingeniería en Audio, Escuela de Música G Martell, 2015–2019) y el **desarrollo de software**. Trabajo en la intersección entre música en vivo, hardware y código: herramientas que controlan visuales, juegos, plataformas y equipos de audio en tiempo real.
 
-## Cómo usar estos manuales
+- 💼 Full stack developer en **Radar Freim** (desde septiembre de 2024, colaboración freelance)
+- 🎚️ Técnico de audio freelance: sonido en vivo y mantenimiento de consolas
+- 🎫 Productor de eventos musicales: boletaje, logística de venues, patrocinios y pago a músicos
+- 🎓 Certificación **Q-SYS Level Zero** (QSC/AVIXA, febrero de 2025)
 
-1. Elige el manual que corresponde a tu necesidad del momento.
-2. Sigue los pasos en orden; cada paso indica qué haces tú y qué hace el modelo.
-3. Copia y adapta los prompts de ejemplo — están escritos para funcionar con asistentes de codificación agénticos (Claude Code, etc.) pero también sirven en un chat normal.
-4. Usa la lista de verificación final antes de dar el trabajo por terminado.
+---
 
-## Principio común a los cuatro manuales
+## Proyectos
 
-Los modelos actuales pueden **leer, razonar, ejecutar herramientas y verificar**, pero el criterio final es tuyo. La regla general es:
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| **ALFA** | Orquestador que sincroniza mis herramientas de performance en vivo (MIDI VJ, MechaKatz y otras) desde un solo punto de control. | `[PLACEHOLDER: stack]` |
+| **MechaKatz vs. Kaijus** | Beat 'em up de pixel art para dos jugadores, con integración Web MIDI. [Repositorio](https://github.com/Alfimero/mechakatz-vs-bake-neko) | JavaScript, Web MIDI |
+| **Dungeons & Radio** | Plataforma de radio en tiempo real que conecta a músicos emergentes con sus escuchas. *(Repositorio privado, en desarrollo)* | TypeScript |
+| **Sistema de boletaje con QR** | Generación de boletos por tipo (normal, cortesía, descuento, regalo) con códigos QR, integración con Google Drive y verificación por cámara. | Python, Google Colab |
+| **Proyectos de hardware MIDI** | Controladores y sensores MIDI sobre microcontroladores, modificación de una consola M-Audio ProjectMix I/O y un plugin de OBS controlado por MIDI CC. | CircuitPython, MicroPython, Raspberry Pi Pico |
+| **Gaussian Splatting en Blender** | Add-on de Blender para un pipeline de imágenes a 3D Gaussian Splatting y tres entregables interactivos en WebGL2. | Python (bpy), WebGL2 |
+| **Mod para Age of Mythology: Retold** | Colocación de formas de muro activada desde el chat, con scripts XS y triggers del Scenario Editor. | XS scripting |
+| **PolyMind AI** *(concepto)* | Plugin de improvisación musical multiagente en tiempo real, con diagramas de arquitectura, mockup de UI y plan de desarrollo. | JUCE, ONNX, Essentia (planeado) |
+| **Project Manager** | Herramienta propia para dar seguimiento a todos mis proyectos y mantener actualizado el Backlog.md de cada uno. | `[PLACEHOLDER: stack]` |
 
-> El modelo propone y ejecuta; tú defines el objetivo, apruebas lo irreversible y validas el resultado.
+---
+
+## Música y escena
+
+- 🎸 **Bake-Neko!**: dúo que mezcla estética mexicana y japonesa/cyberpunk (bajo, guitarra y voz)
+- 🎪 **AscentFest**: festival de math rock / post rock en CDMX, enfocado en pagar completo a los músicos y hacer crecer la escena mexicana
+- ✍️ Blog literario/dramático de música en Instagram
+- 🎼 Proyecto PECDA sobre música microtonal en Ableton Live, basado en la obra de Julián Carrillo
+
+---
+
+## Herramientas y tecnologías
+
+**Lenguajes:** Python · TypeScript · JavaScript · MicroPython / CircuitPython
+**Audio y música:** Ableton Live · MIDI / Web MIDI · Q-SYS · sonido en vivo
+**Hardware:** Raspberry Pi Pico · Arduino · ESP32
+**3D y visuales:** Blender (bpy) · WebGL2 · OBS
+**IA y automatización:** Claude Code · agentes de IA · Docker + Ollama
+
+---
+
+## Contacto
+
+- 🌐 [Sitio web](https://alfonsodlrosa.wixsite.com/alfonsodlarosa)
+- 📧 `[PLACEHOLDER: correo]`
+- 📸 `[PLACEHOLDER: Instagram / blog]`
